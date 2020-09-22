@@ -1,0 +1,27 @@
+{
+  "checkTime": 90,
+  "timeToRun": 300,
+  "email": {
+    "address": null,
+    "password": null,
+    "phoneNumber": null,
+    "provider": null,
+    "destEmail": null
+  },
+  "bestbuy": [
+  ],
+  "walmart": [
+  ],
+  "target": [
+  ],
+  "gamestop": [
+  ],
+  "kohls": [
+  ],
+  "costco": [
+  ],
+  "samsclub": [
+  ],
+  "amazon": [
+  ]
+}
